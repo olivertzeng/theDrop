@@ -21,16 +21,18 @@ PL 醒來後失去前世記憶，身處改造過的連安大廈中。
 ## 結局
 <details>
     <summary>劇透</summary>
-A（復仇）：殺 CEO →機洩師消失 → PL 回到現實世界
-B（放下）：不殺 CEO + Texas standoff 提到機洩師→ 帶機洩師離開
-C（BE）：不殺 CEO 但沒防備 → 被 CEO 反殺 →
+* A（復仇）：殺 CEO →機洩師消失 → PL 回到現實世界
+* B（放下）：不殺 CEO + Texas standoff 提到機洩師→ 帶機洩師離開
+* C（BE）：不殺 CEO 但沒防備 → 被 CEO 反殺 →
          好感度夠：McChanic 救你（第二次機會）
          好感度不夠：遊戲結束
 </details>
 
 # 銘謝
 NPC 製圖器：“♡My💘Babyメーカー♡“!!
+
 機洩師：https://picrew.me/share?cd=CAPijYd9lQ
 
 CEO：https://picrew.me/share?cd=H5TL4XgffH
+
 CEO 哭差分：https://picrew.me/share?cd=lJw7nAtRWs
