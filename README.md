@@ -33,6 +33,8 @@ NPC 製圖器：“♡My💘Babyメーカー♡“!!
 
 機洩師：https://picrew.me/share?cd=CAPijYd9lQ
 
+CEO 受困：https://picrew.me/share?cd=THB94uk83j
+
 CEO：https://picrew.me/share?cd=H5TL4XgffH
 
 CEO 哭差分：https://picrew.me/share?cd=lJw7nAtRWs
